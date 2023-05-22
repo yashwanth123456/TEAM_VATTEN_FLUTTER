@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "588328145245",
+    "project_id": "vatten-9c2d7",
+    "storage_bucket": "vatten-9c2d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588328145245:android:82660da1b8280e4cd1d8b4",
+        "android_client_info": {
+          "package_name": "com.example.new_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588328145245-4md4l01q3e5qna6cb2h97hbqle3hn9k8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.new_sample",
+            "certificate_hash": "484352bbc41b663c47b39a6ab91553f544cee9a1"
+          }
+        },
+        {
+          "client_id": "588328145245-ns0lf6mruab7rv9dbt24n6k40vdkeu3s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.new_sample",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "588328145245-1s8qc5lvrjs04aslnlksmsvrvsc3bkve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq8LIqmch86YFN_v8Wyc1T90q0spccV4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588328145245-1s8qc5lvrjs04aslnlksmsvrvsc3bkve.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "588328145245-hslkgfn5cln0siudfaonvo4d7ohkqgmj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.vatten"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588328145245:android:e09918ad5a4385e0d1d8b4",
+        "android_client_info": {
+          "package_name": "com.mycompany.vatten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588328145245-8mgfdikrp39470tu11e1qe459d6c35du.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.vatten",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "588328145245-1s8qc5lvrjs04aslnlksmsvrvsc3bkve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq8LIqmch86YFN_v8Wyc1T90q0spccV4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588328145245-1s8qc5lvrjs04aslnlksmsvrvsc3bkve.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "588328145245-hslkgfn5cln0siudfaonvo4d7ohkqgmj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.vatten"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
